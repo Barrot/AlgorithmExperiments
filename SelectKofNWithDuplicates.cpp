@@ -5,6 +5,7 @@
 
 using namespace std;
 
+// Rewrite this on your own so that you can understand it better
 void SelectKofNWithDuplicates(unsigned int index,
                               array<unsigned int, 2> selections,
                               vector<char> &dat,
